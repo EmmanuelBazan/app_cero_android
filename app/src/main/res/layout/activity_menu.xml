@@ -5,13 +5,21 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingHorizontal="20dp"
-    tools:context=".MenuActivity">
+    tools:context=".MenuActivity"
+    android:orientation="vertical">
 
     <Button
         android:id="@+id/btnSaludaApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Saluda app"
+        />
+
+    <Button
+        android:id="@+id/btnIMCApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IMC App"
         />
 
 </LinearLayout>
