@@ -15,4 +15,6 @@
     <color name="background_text">#FF8D8E98</color>
     <color name="title_text">#EFEFEF</color>
 
+    <color name="transparent">#00FFFFFF</color>
+
 </resources>
